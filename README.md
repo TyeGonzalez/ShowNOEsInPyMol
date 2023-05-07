@@ -2,7 +2,7 @@
 Read a CNS .tbl file and display NOEs as Distances in Pymol
 
 
-###Usage
+### Usage
 In PyMol Terminal
 run draw_noe_lines.py
 
